@@ -13,4 +13,5 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
  def speak_to_grandma(str)
-   if (str == str.toUpper)
+   if (str == str.upcase)
+     
